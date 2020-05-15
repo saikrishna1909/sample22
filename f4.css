@@ -1,0 +1,12 @@
+
+  header {
+       background: yellow;
+       border-radius: 0;
+       margin: 0;
+       border: 5px black;
+       paddle: 0;
+       }  
+ 
+ #chicken> h2 {
+  float: center;
+}
