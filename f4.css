@@ -2,10 +2,15 @@
  
 #header-nav  {
 background-color: yellow;
-height: 300px;
+height: 30px;
 
 border-radius: 0;
 }
+h3 {
+      float: center;
+   background: brown;
+   }   
+   
 #chicken
 {
     background: green;
