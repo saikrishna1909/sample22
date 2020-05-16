@@ -1,16 +1,21 @@
 
-  header {
-       background: yellow;
-       border-radius: 0;
-       margin: 0;
-       border: 5px black;
-       paddle: 0;
-       }  
  
- #chicken> h2 {
-  float: center;
-}
 #header-nav  {
 background-color: f6b319;
 border-radius: 0;
+}
+
+ 
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  text-align: center;
+}
+#nav-list a:hover{
+   background: blue;
+}
+#nav-list a span{
+  font-size: 1.8em;
 }
